@@ -1,10 +1,8 @@
 # scalert_linux
 Scenario Alert for Warhammer: Return of Reckoning through Desktop Notification
+Based on Caffeine Windows Sirena.exe
+Modified by Xpander
 
-########################################
-####Based on Caffeine Windows Sirena.exe
-####Modified by Xpander
-########################################
 
 1) Install ScenarioAlert addon https://www.returnofreckoning.com/forum/viewtopic.php?f=66&t=20524
 
